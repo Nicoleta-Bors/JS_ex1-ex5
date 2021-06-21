@@ -51,5 +51,3 @@ For people who are under 18, log a statement to the console telling them that th
 Verify that the correct statements are printing to the console!
 
 9) What if the runner is exactly 18 years old? Can you check this case also?
-Assignment
-JS Exercise 5 - Conditionals
